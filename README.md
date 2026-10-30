@@ -65,7 +65,7 @@ Digital Transformation | Software Engineering | ICT | Business Systems | Technol
 ## Connect
 
 - GitHub: https://github.com/geek-mwaniki/
-- LinkedIn: https://angela-njoki-mwaniki/
-- Podcast platforms: Youtube (The Deep Seat)
+- LinkedIn: https://www.linkedin.com/in/angela-njoki-mwaniki/
+- Podcast platforms: https://www.youtube.com/@deepseatpodcast/
 
 *Building systems. Exploring ideas. Connecting technology with real-world problems.*
